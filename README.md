@@ -1,5 +1,5 @@
 # Netflix Movie Analysis
-
+![Netflix_image]()
 
 Database: PostgreSQL Data Analysis: SQL
 This project involves analyzing a dataset of movies and shows available on Netflix, with a particular focus on identifying trends and insights related to actors, genres, and production countries. The primary goal is to extract meaningful information from the dataset using SQL queries, enabling users to understand the distribution of movies, the most prolific actors, and the types of content available on the platform.
